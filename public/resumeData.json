@@ -1,0 +1,125 @@
+{
+  "main": {
+    "name": "Divakar Thambidurai",
+    "occupation": "JavaScript Developer",
+    "description": "Meticulous self-driven and highly motivated web developer & earning the opportunity to drive own project from ideation to rollout.",
+    "image": "012A0698.JPG",
+    "bio": "Passionate, Self-learned graduate actively seeking full time oppurtunities",
+    "contactmessage": "Get in touch with me to receive further details, get connected or anything else.",
+    "email": "divakarthambdiurai@gmail.com",
+    "phone": "+91 89739 83311",
+    "address": {
+      "city": "Erode",
+      "state": "Tamilnadu"
+    },
+    "website": "https://dkrdev.web.app/",
+    "resumedownload": "https://firebasestorage.googleapis.com/v0/b/portfolio-49c99.appspot.com/o/CV_DIVAKAR%20THAMBIDURAI.pdf?alt=media&token=89ec074c-b21a-4e5e-a6b4-cf95619f3508",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/divakar.thambidurai",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/divakarthambidurai/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/mr_dkr/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/mr-dkr",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "University of Leicester",
+        "degree": "Masters in Advanced Computer Science",
+        "graduated": "January 2021",
+        "description": "Modules covered during course are Analysis and Design of Algorithms, Web Technologies, Advanced System Design, Internet and Cloud Computing."
+      },
+      {
+        "school": "Anna University",
+        "degree": "Bachelors in Information Technology",
+        "graduated": "April 2019",
+        "description": " As I was greatly involved in academics, I was able to procure immense knowledge on various courses like Object-Oriented Analysis and Design, Web Technology, Database Management System, System Programming and Operating Systems and Design and Analysis of Algorithms. The course programs placed an equal emphasis on theoretical and practical applications as well. Each course made me research and study further to match my curiosity in the respective areas, as well as the practical applications of my projects and concepts. These courses were just a preliminary step in my career and I had gone further to enhance myself.       "
+      }],
+    "work": [
+      {
+        "company": "Geekstack",
+        "title": "Web Developer",
+        "years": "December 2018 - April 2019",
+        "description": "In the startup work environment, you get to have a relationship with your boss, the investors, and the key members of the team. Startups are like families - you see the good, the bad and the ugly, but in the end, you've got each other's back. Clay Clark's lines end in factual statements.Worked on client proposals, presentations, PoCs, Demos, Queries and provide solutions on cutting edge Development domain.Handled multiple frontend and backend projects for consulting firms and Upcelerators - cloud management services.Developed website for one of the most famous fertility and multispeciality hospitals in Asia - Sudha Hospital.Developed and delivered an Optical Character Recognition Mobile Application for the purpose of scanning at ease.Developed Mobile Application using the Ionic Framework."
+      },
+      {
+        "company": "Radian Infosystem",
+        "title": "Front-end Web Developer (Internship)",
+        "years": "August 2017 - September 2017",
+        "description": "Worked on stock market analysing website developed using C# and .Net framework.        "
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "90%"
+      },
+      {
+        "name": "CSS",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "Firebase",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "WhatsApp Clone with React",
+        "category": "WhatsApp Clone built with ReactJS and Firebase",
+        "image": "WhatsApp.png",
+        "url": "https://clone-whatsapp-31e78.web.app/"
+      },
+      {
+        "title": "Amazon Clone with React",
+        "category": "Amazon Clone built with ReactJS and Firebase",
+        "image": "amazon.jpg",
+        "url": "https://clone-847ce.web.app/"
+      },
+      {
+        "title": "Facebook Clone with React",
+        "category": "Facebook Clone built with ReactJS",
+        "image": "facebook.jpeg",
+        "url": "https://facebook-clone-8584d.firebaseapp.com/"
+      },
+      {
+        "title": "Netflix Clone with React",
+        "category": "Netflix Clone built with ReactJS",
+        "image": "netflix.jpg",
+        "url": "https://clone-netflix-a3f17.web.app/"
+      }
+    ]
+  }
+}
+

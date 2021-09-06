@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "portfolio-49c99"
+  },
+  "targets": {
+    "portfolio-49c99": {
+      "hosting": {
+        "dkrdev": [
+          "dkrdev"
+        ]
+      }
+    }
+  }
+}
